@@ -822,3 +822,4 @@ C:\Users\n64ev\OneDrive\Documents\ElevenFiftyProjects\Red Badge\Pokedex.BlazorWA
 C:\Users\n64ev\OneDrive\Documents\ElevenFiftyProjects\Red Badge\Pokedex.BlazorWASM\Pokedex.BlazorWASM\obj\Debug\net6.0\refint\Pokedex.BlazorWASM.dll
 C:\Users\n64ev\OneDrive\Documents\ElevenFiftyProjects\Red Badge\Pokedex.BlazorWASM\Pokedex.BlazorWASM\obj\Debug\net6.0\Pokedex.BlazorWASM.pdb
 C:\Users\n64ev\OneDrive\Documents\ElevenFiftyProjects\Red Badge\Pokedex.BlazorWASM\Pokedex.BlazorWASM\obj\Debug\net6.0\ref\Pokedex.BlazorWASM.dll
+C:\Users\n64ev\OneDrive\Documents\ElevenFiftyProjects\Red Badge\Pokedex.BlazorWASM\Pokedex.BlazorWASM\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css

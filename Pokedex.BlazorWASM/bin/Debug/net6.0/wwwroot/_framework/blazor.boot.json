@@ -197,13 +197,13 @@
       "mscorlib.dll": "sha256-KqZqU1imWCwJ9UPDElyoolN8s7Yqhjk67wuOohFN5KA=",
       "netstandard.dll": "sha256-kBK\/QJy7\/skP97jqnvXnOFMrhWS8HZ1bsADFK\/gZkyM=",
       "System.Private.CoreLib.dll": "sha256-3webPuyNUXfAFKY5c1tC\/jBVrjZHelBwvXrr1E9VJuk=",
-      "Pokedex.BlazorWASM.dll": "sha256-i+lU44QsZj9xhQZu1cvJKS8HA02C4ebNRXy859RjRgk="
+      "Pokedex.BlazorWASM.dll": "sha256-nhGcdRnsHS75N7NZCBnaEqD5Ei4mo423aq3esJvyEEA="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "Pokedex.BlazorWASM.pdb": "sha256-jegqQ7Ktd+UtcqypmiaB1vbJKdREp\/cmbRy93iHqEhg="
+      "Pokedex.BlazorWASM.pdb": "sha256-ZZq8oy8u4Td0PTOtZkkQROunYJj9oMj4K+2y\/lSbH7E="
     },
     "runtime": {
       "dotnet.6.0.13.icwip1fq1l.js": "sha256-X\/515F1HEzgsDZdY8BJjt8YUwrWngHGZkMnpClhsrpY=",
